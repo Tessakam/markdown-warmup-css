@@ -1,11 +1,14 @@
 html {
-    background-color: lightblue;
+    background-image:url("https://www.apecgroup.be/wp-content/uploads/2017/08/Clouds-Background-HD.jpg");
+    background-repeat: no-repeat;
+    position: sticky;
     font-family: Impact, Charcoal, sans-serif;
     color: black;
     box-sizing: border-box;
 }
 
 body {
+    position: sticky;
     width: 600px;
     margin: 0 auto;
     background-color: lavender;
@@ -23,10 +26,6 @@ h3 {
     color: lightseagreen;
 }
 
-.img{
-    float: center
-
-}
 .center {
     display: block;
     margin-left: auto;
@@ -36,8 +35,5 @@ h3 {
 
 footer {
     text-align: center;
-}
-
-anav {
-    text-algin: center;
+    font-weight: bold;
 }
