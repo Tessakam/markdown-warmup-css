@@ -16,17 +16,28 @@ body {
 
 h1 {
     color: dodgerblue;
+    text-align: center;
 }
 
 h3 {
     color: lightseagreen;
 }
 
-container1 {
-    img: center;
+.img{
+    float: center
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 footer {
     text-align: center;
 }
 
+anav {
+    text-algin: center;
+}
