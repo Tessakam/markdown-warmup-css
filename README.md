@@ -1,2 +1,2 @@
 # markdown-warmup-css
-https://github.com/Tessakam/markdown-warmup-css
+https://tessakam.github.io/markdown-warmup-css/
